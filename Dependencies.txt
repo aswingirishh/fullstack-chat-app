@@ -1,0 +1,74 @@
+#Dependencies 
+
+Gmail ID : finalyear0021@gmail.com
+Gmail Pass : {finalyear@0021}
+
+
+
+
+Frontend
+
+#vite
+npm create vite@latest .  
+
+npm install
+
+npm run dev 
+
+#react router and hot toast
+npm i react-router-dom react-hot-toast (1:28:20)
+
+
+#tailwind version 3 
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+
+
+#daisy UI 
+npm i -D daisyui@4.12.23
+
+import daisyui from 'daisyui'; : paste at the top of the code. Folder name is tailwindconfig.js
+
+
+#zustand
+npm i axios zustand
+
+
+#icons
+npm i lucide-react
+
+
+#socket.io (real time chatting)
+npm i socket.io-client
+
+
+
+
+
+Backend
+
+#node packages 
+
+npm init -y
+
+npm i express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io
+
+npm i nodemon -D
+
+#mongodb
+
+pass for DB : mongodb+srv://finalyear0021:49UU7T0xMbHL0ULQ@cluster0.d1a6hmh.mongodb.net/chat_db?retryWrites=true&w=majority&appName=Cluster0
+
+
+#cloudinary
+
+cloud name : dyszso460
+
+api key : 658154463416281
+
+api secret : ir2SMg0XvQJzpheJ-vt3tLnCg8Q
+
+
+#others
+npm i cors
+
